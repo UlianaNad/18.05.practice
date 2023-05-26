@@ -32,6 +32,6 @@ document.addEventListener('DOMContentLoaded', () =>{
     render();
 })
 
-document.querySelector('button').addEventListener('click', () => {
+document.querySelector('.save').addEventListener('click', () => {
     addNewAuthor();
 })

@@ -1,17 +1,32 @@
 [
     {
-      "id": 1,
-      "article":"efdsrgdsfgftyry",
-      "authorID": 1
+        "id": 1,
+        "title": "Who is Natasha Denona?",
+        "article": "Natasha Denona is a Croatian-born make-up artist with over 20 years experience in the industry. Shes worked with the likes of Bar Refaeli and Gal Gadot and won numerous make-up artist awards. ",
+        "authorID": 1
     },
     {
-      "id": 2,
-      "article":"sftherturety",
-      "authorID": 2
+        "id": 2,
+        "title": "Tom Ford history – from the early days until today",
+        "article": "Tom Ford history begins in the late 80s of the 20th century in a sportswear company. After some time working there, Tom Ford designer received a call from Gucci creative director Dawn Melo to join Gucci in the year 1990. as the brands chief womens wear designer.",
+        "authorID": 2
     },
     {
-      "id": 3,
-      "article":"wrtyeryt",
-      "authorID": 3
+        "id": 3,
+        "title": "Charlotte Tilbury | Success Story of the Quintessential Make-up Brand",
+        "article": "Charlotte Tilbury Beauty Ltd. was launched in 2013 with 200 beauty products. It is a British luxury brand. The brand has worked with A-list celebrities like Nicole Kidman, Salma Hayek, Helena Bonham-Carter, Jennifer Aniston, Penelope Cruz, Kate Moss, and many more. Its makeup products are famous for the premium quality they offer. The products give skin a natural-looking glow, and they never look cakey. Charlotte Tilbury’s Airbrush Flawless Foundation is classified as a phenomenal product in the makeup world. ",
+        "authorID": 3
+    },
+    {
+        "id": 4,
+        "title": "Innovation & Inspiration by Huda Beauty",
+        "article": "Launched by award-winning beauty blogger Huda Kattan in 2013, Huda Beauty is one of the world's fastest-growing beauty brands. Beginning as a blog in 2010, Huda Beauty has fast become the number 1 Beauty Instagram account in the world with over 26 million followers and counting! A lifelong passion for beauty lead Huda to enrol at a prestigious makeup training school in Los Angeles, cultivating a roster of clientele including A-list celebrities and members of a royal family. Soon after, Huda set up her beauty blog HUDABEAUTY.COM and later launched a YouTube channel and an Instagram account by the same name.",
+        "authorID": 7
+    },
+    {
+        "id": 5,
+        "title": "Oleksii Rutkovskyi (AL.RUTKOVSKIY)",
+        "article": "Accomplished Brand Creator And Industry Professional With 8+ Years Of Omni-channel Experience. Expert In O+O Marketing, Social Media Management, Experience creating, implementing, and optimizing social media strategy, E-Commerce & Consumer Engagement. Earned well-deserved industry recognition in Ukraine, Europe, Middle East & USA. Alex possesses well-developed leadership and excellent communication skills, great teamwork abilities, and able to deliver results in a timely manner in a highly paced working environment.",
+        "authorID": 8
     }
-  ]
+]

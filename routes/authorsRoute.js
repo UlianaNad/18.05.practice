@@ -10,11 +10,9 @@ router.get('/authors', (req,res) => {
 });
 
 router.get('/authors_data', (req,res) => {
-    //console.log(data);
+    //console.log(authorsData);
     res.json(authorsData);
 });
-
-
 
 
 
@@ -23,19 +21,18 @@ router.post('/authors_data', (req,res) => {
     
     let data1 = fs.readFileSync(__dirname + "/data/authors.json");
     let obj = JSON.parse(data1);
-    //console.log(obj)
+    //console.log(obj.length)
 
-    let counter = 0;
+    let counter = 1;
 
     for(let i = 0; i < obj.length; i++){
         counter++;
     }
-    console.log(counter);
-
+    //console.log(counter);
 
     let authorData = {
-        "id":'',
-        "author": req.body.author,
+        "id":counter,
+        "author": req.body.author
     }
     //console.log(authorData)
     obj.push(authorData);

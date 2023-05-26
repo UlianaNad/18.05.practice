@@ -1,6 +1,6 @@
 const express = require('express');
 
-const mainRoute = require('./routes/mainPage');
+const mainRoute = require('./routes/mainRoute');
 const articlesRoute = require('./routes/articlesRoute');
 const authorsRoute = require('./routes/authorsRoute');
 

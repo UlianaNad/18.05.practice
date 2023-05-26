@@ -10,17 +10,19 @@
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 </head>
 <body>
-    <div class="container mt-2">
-        <h1>Author's list</h1>
-        <ol class="list list-group">
-            
-        </ol>
-        <div class="container mt-3">
-            <input class="input" type="text" placeholder="Add a new author...">
-            <button class='save' type="submit">Save</button>
+    <div class="container mt-2 d-flex justify-content-between">
+        <div class="title"></div>
+
+        <div class="btn-group" role="group">
+            <button class="btn btn-outline-secondary previous">Previous</button>
+            <button class="btn btn-outline-secondary next">Next</button>
         </div>
     </div>
+    <div class="container mt-3">
+        <div class="text"></div>
+        <div class="authorName mt-3"></div>
+    </div>
 
-    <script src="/js/authors.js"></script>
+    <script src="/js/main.js"></script>
 </body>
 </html>
